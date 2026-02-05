@@ -1,0 +1,4 @@
+Number of yeast coding sequences with start and end codons: 6709
+Number of ORFs with TAA end codon: 3154, 47.01% of all ORFs
+Number of ORFs with TGA end codon: 1997, 29.77% of all ORFs
+Number of ORFs with TAG end codon: 1558, 23.22% of all ORFs
