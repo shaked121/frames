@@ -1,0 +1,12 @@
+feedback:
+
+Very good solution with correct FASTA parsing, a biologically accurate regex that enforces codon triplets, correct stop codon extraction, and accurate percentage calculations. The use of a helper function to avoid code repetition is a good programming practice, and the code also safely handles the division-by-zero case.
+
+Minor notes:
+
+The required folder names were data/ and results/, while the submission uses Data/ and Results/.
+Using with open(...) would be safer and more standard for file handling in Python.
+
+Overall, this is a strong and correct implementation.
+
+Grade: 8/8
